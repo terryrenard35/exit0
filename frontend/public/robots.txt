@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Indique à Google où se trouve le plan de ton site
+Sitemap: https://exit0.tech/sitemap.xml

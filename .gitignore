@@ -1,0 +1,20 @@
+# SÉCURITÉ (TRÈS IMPORTANT)
+serviceAccountKey.json
+.env
+.env.local
+
+# DÉPENDANCES (Très lourd)
+node_modules/
+backend/venv/
+__pycache__/
+
+# BUILD (Généré automatiquement)
+frontend/dist/
+frontend/build/
+.firebase/
+
+# SYSTÈME MAC
+.DS_Store
+terraform/.terraform/providers/registry.terraform.io/hashicorp/google/7.19.0/darwin_arm64/terraform-provider-google_v7.19.0_x5
+terraform/terraform.tfstate.1771316848.backup
+terraform/terraform.tfstate.backup

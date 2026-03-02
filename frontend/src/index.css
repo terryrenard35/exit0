@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Garde tes styles personnalisés en dessous si tu en as */
+body {
+  @apply bg-neutral-900 text-white antialiased;
+}
